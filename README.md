@@ -1,4 +1,4 @@
 # CS-20A-Project-1
 Class Name: Data Structures with C++
 
-The code for this project was NOT done be myself, the goal for the is project was to separate the code into different header files.
+This project started out as one file, all done by the Professor.  My work in this work project was to separate all the different classes/functions into their own header and .ccp files.
